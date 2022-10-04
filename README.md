@@ -1,6 +1,14 @@
 <h1>Hi! I'm Samantha<img src="https://media2.giphy.com/media/YqFACC5oHsyy3l31k1/200w.webp" width="32px" height="32px"/></h1>
 <br>
 
+## Web Developer :computer:
+
+## :mortar_board: Knowledge
+
+### :scroll: About me
+* :earth_americas: I am from Hidalgo, México.
+
+
  ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
