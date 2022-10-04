@@ -3,7 +3,6 @@
 
 ## Web Developer :computer:
 
-## :mortar_board: Knowledge
 
 ### :scroll: About me
 * :earth_americas: I am from Hidalgo, México.
